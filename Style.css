@@ -24,14 +24,26 @@ span{
 .photo{
     height: 200px
 }
-.photo{
-    background-image: url(./shirts.avif);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 700px;
-    height: 600px;
+.image {
+    display: flex;
+    background-size: 700px;
+    width: 1000px;
+    height: 500px;
 
 }
+.image img{
+  width: 60%;
+}
+.intro{
+    display: flex;
+    align-items: center; 
+    color: maroon;
+}
+.text{
+    text-align: center;
+    size: 2opx;
+}
+
 .babies{
     display: flex;
     gap: 80px;
@@ -39,11 +51,12 @@ span{
 p{
     text-align: center;
     size: 40px;
-    font-size: 40px;
+    font-size: 30px;
 }
 .wear{
     display: flex;
-    gap: 50px;
+    gap: 90px;
+    justify-content: space-between;
 }
 .man{
     display: flex;
@@ -63,15 +76,13 @@ p{
 .pop{
     font-size: large;
 }
-
-
-}
+/* 
 .Q{
     size: 10px;
-}
+} */
 .names{
     display: flex;
-    gap: 260px;
+    gap: 300px;
 }
 .names p{
     font-size: large;
