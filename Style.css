@@ -1,0 +1,92 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    size: 10%;    
+    margin-top: -1% ;
+    margin-left: 5px ;
+} 
+.box1{
+    list-style: none;
+    display: flex; 
+    gap: 30px;
+    cursor: pointer;
+}
+.icon ion-icon{
+   margin-left: 60px;
+} 
+.navbar img{
+height: 150px;
+}
+span{
+    font-weight: 100px;
+    font-weight: 100px;
+}
+.photo{
+    height: 200px
+}
+.photo{
+    background-image: url(./shirts.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 700px;
+    height: 600px;
+
+}
+.babies{
+    display: flex;
+    gap: 80px;
+}
+p{
+    text-align: center;
+    size: 40px;
+    font-size: 40px;
+}
+.wear{
+    display: flex;
+    gap: 30px;
+}
+.man{
+    display: flex;
+    gap: 40px;
+}
+.endpage{
+    display:flex ;
+    gap: 150px;
+    background-color: rgba(43, 38, 38, 0.753);
+}
+.pa{
+   font-size: large;
+}
+.paa{
+    font-size: large;
+}
+.pop{
+    font-size: large;
+}
+.line{
+
+}
+.Q{
+    size: 10px;
+}
+.names{
+    display: flex;
+    gap: 260px;
+}
+.names p{
+    font-size: large;
+}
+.Feml{
+    display: flex;
+    gap: 250px;
+}
+.Feml p{
+    font-size: large;
+}
+.male{
+    display: flex;
+    gap: 310px;
+}
+.male p{
+    font-size: large;
+}
