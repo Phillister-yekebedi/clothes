@@ -43,11 +43,11 @@ p{
 }
 .wear{
     display: flex;
-    gap: 30px;
+    gap: 50px;
 }
 .man{
     display: flex;
-    gap: 40px;
+    gap: 60px;
 }
 .endpage{
     display:flex ;
@@ -63,7 +63,7 @@ p{
 .pop{
     font-size: large;
 }
-.line{
+
 
 }
 .Q{
